@@ -1,8 +1,8 @@
-写真投稿Webサイト
+
 # README
 
 写真投稿Webサイト
 
-##  Ruby version
+## Ruby version
 
 * 2.3.1p112
